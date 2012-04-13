@@ -11,3 +11,5 @@ F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\S
 F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegrationWP7\obj\Debug\SocialIntegrationWP7.dll
 F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegrationWP7\obj\Debug\SocialIntegrationWP7.pdb
 F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegrationWP7\obj\Debug\XapCacheFile.xml
+F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegrationWP7\Bin\Debug\Images\Sina\SinaLogo64.png
+F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegrationWP7\Bin\Debug\Images\Sina\SinaLogo48.png
