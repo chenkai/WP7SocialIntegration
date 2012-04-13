@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialIntegrationClient", "SocialIntegrationWP7\SocialIntegrationClient.csproj", "{0AD22D89-952D-4677-B05A-E6293C2DD3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialIntegration.Common", "SocialIntegration.Common\SocialIntegration.Common.csproj", "{E0172210-6BAC-4743-A189-66154F8F01B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD22D89-952D-4677-B05A-E6293C2DD3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD22D89-952D-4677-B05A-E6293C2DD3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD22D89-952D-4677-B05A-E6293C2DD3CA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0AD22D89-952D-4677-B05A-E6293C2DD3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD22D89-952D-4677-B05A-E6293C2DD3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD22D89-952D-4677-B05A-E6293C2DD3CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E0172210-6BAC-4743-A189-66154F8F01B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0172210-6BAC-4743-A189-66154F8F01B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0172210-6BAC-4743-A189-66154F8F01B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0172210-6BAC-4743-A189-66154F8F01B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

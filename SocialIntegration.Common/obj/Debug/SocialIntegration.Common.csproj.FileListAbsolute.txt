@@ -1,0 +1,5 @@
+F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegration.Common\Bin\Debug\SocialIntegration.Common.dll
+F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegration.Common\Bin\Debug\SocialIntegration.Common.pdb
+F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegration.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegration.Common\obj\Debug\SocialIntegration.Common.dll
+F:\Personal Open Souce Demo\社交应用集成\SourceCode\SocialIntegrationWP7\SocialIntegration.Common\obj\Debug\SocialIntegration.Common.pdb
